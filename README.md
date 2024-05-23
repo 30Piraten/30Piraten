@@ -2,7 +2,7 @@
 
 ### Mein Name ist Victor!
 
-- 🥶 Studied: Theoretical Physics 👨‍🦯
+- 🥶 Studied: Physics 👨‍🦯
 - 🔭 I’m currently sightseeing: Kubernetes Cluster Administration
 - 🫠 Interested in: **Cloud Services - Azure | Containers - K8s & Docker | IaC - Terraform | CI/CD**
 - 💬 Ask me about: **Cloud Services | Microservices Architecture | Networking | CI/CD | Containers** 
