@@ -5,7 +5,7 @@
 - 🥶 Studied: Theoretical Physics 👨‍🦯
 - 🔭 I’m currently working on: Kubernetes Cluster Administration
 - 🫠 Interested in: **Cloud Services - Azure | Containers - K8s & Docker | IaC - Terraform | CI/CD**
-- 💬 Ask me about: **Cloud Services | Microservices Architecture | Networking | CI/CD | System Design** 
+- 💬 Ask me about: **Cloud Services | Microservices Architecture | Networking | CI/CD | Containers** 
 - 📫 How to reach me: [twitter](https://twitter.com/VictorRaeva/) | [Email](https://outlook.live.com/mail/0/)
 - 👻 More links here: [Datenbank](https://linktr.ee/r3ev)
 - 🥱 Check out some articles written: [3rev](3rev.medium.com)
