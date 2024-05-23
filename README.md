@@ -16,5 +16,5 @@
 - ⚡ Fun fact: Obsessed with Anime and Crochet!
 
 
-<-- [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=30Piraten&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
--->
+<!-- [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=30Piraten&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+--!>
