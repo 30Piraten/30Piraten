@@ -3,7 +3,7 @@
 ### Mein Name ist Victor!
 
 - 🥶 Studied: Theoretical Physics 👨‍🦯
-- 🔭 I’m currently working on: Kubernetes Cluster Administration
+- 🔭 I’m currently working on: Kubernetes Cluster Administration & German
 - 🫠 Interested in: **Cloud Services | Microservices Architecture | Networking | CI/CD | System Design**
 - 💬 Ask me about: **Cloud Services - Azure | Containers - K8s & Docker | IaC - Terraform | CI/CD**
 - 📫 How to reach me: [twitter](https://twitter.com/VictorRaeva/) | [Email](https://outlook.live.com/mail/0/)
@@ -13,7 +13,7 @@
     - [Apocryphal](https://www.verse-virtual.org/2014/November/victor-ehikioya-2014-november.html)
     - [Collection](https://www.verse-virtual.org/2015/March/victor-brown-omovbude-2015-march.html)
     - [Life is short. Art is long.](https://www.verse-virtual.org/2015/August/victor-brown-omovbude-2015-august.html)
-- ⚡ Fun fact: I am obsessed with Anime and Crochet!
+- ⚡ Fun fact: Obsessed with Anime and Crochet!
 
 
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=30Piraten&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
