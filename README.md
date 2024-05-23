@@ -3,7 +3,7 @@
 ### Mein Name ist Victor!
 
 - 🥶 Studied: Theoretical Physics 👨‍🦯
-- 🔭 I’m currently working on: Kubernetes Cluster Administration
+- 🔭 I’m currently sightseeing: Kubernetes Cluster Administration
 - 🫠 Interested in: **Cloud Services - Azure | Containers - K8s & Docker | IaC - Terraform | CI/CD**
 - 💬 Ask me about: **Cloud Services | Microservices Architecture | Networking | CI/CD | Containers** 
 - 📫 How to reach me: [twitter](https://twitter.com/VictorRaeva/) | [Email](https://outlook.live.com/mail/0/)
