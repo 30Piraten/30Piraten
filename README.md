@@ -3,9 +3,9 @@
 ### Mein Name ist Victor!
 
 - 🥶 Studied: Theoretical Physics 👨‍🦯
-- 🔭 I’m currently working on: Kubernetes Cluster Administration & German
-- 🫠 Interested in: **Cloud Services | Microservices Architecture | Networking | CI/CD | System Design**
-- 💬 Ask me about: **Cloud Services - Azure | Containers - K8s & Docker | IaC - Terraform | CI/CD**
+- 🔭 I’m currently working on: Kubernetes Cluster Administration
+- 🫠 Interested in: **Cloud Services - Azure | Containers - K8s & Docker | IaC - Terraform | CI/CD**
+- 💬 Ask me about: **Cloud Services | Microservices Architecture | Networking | CI/CD | System Design** 
 - 📫 How to reach me: [twitter](https://twitter.com/VictorRaeva/) | [Email](https://outlook.live.com/mail/0/)
 - 👻 More links here: [Datenbank](https://linktr.ee/r3ev)
 - 🥱 Check out some articles written: [3rev](3rev.medium.com)
@@ -16,4 +16,5 @@
 - ⚡ Fun fact: Obsessed with Anime and Crochet!
 
 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=30Piraten&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+<-- [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=30Piraten&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+-->
