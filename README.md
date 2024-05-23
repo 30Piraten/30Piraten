@@ -15,3 +15,5 @@
     - [Life is short. Art is long.](https://www.verse-virtual.org/2015/August/victor-brown-omovbude-2015-august.html)
 - ⚡ Fun fact: I am obsessed with Anime and Crochet!
 
+
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=30Piraten&count_private=true&show_icons=true&theme=radica&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
