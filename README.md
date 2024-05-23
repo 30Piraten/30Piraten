@@ -1,11 +1,17 @@
 ## Hallo Leute! 🦦
 
+### Mein Name ist Victor!
 
-- 🔭 I’m currently working on: 
-- 🌱 Studied: Theoretical Physics
-- 🫠 Interested in: **Cloud Services | Microservices Architecture | Networking | CI/CD | System Design**
-- 💬 Ask me about: **Cloud Services - Azure | Containers - K8s & Docker | IaC - Terraform | CI/CD**
-- 📫 How to reach me: [twitter](https://twitter.com/VictorRaeva/) | [Email](https://outlook.live.com/mail/0/)
-- 👻 More links here: [Datenbank](https://linktr.ee/r3ev)
+  🔭 I’m currently working on: 
+  🌱 Studied: Theoretical Physics
+  🫠 Interested in: **Cloud Services | Microservices Architecture | Networking | CI/CD | System Design**
+  💬 Ask me about: **Cloud Services - Azure | Containers - K8s & Docker | IaC - Terraform | CI/CD**
+  📫 How to reach me: [twitter](https://twitter.com/VictorRaeva/) | [Email](https://outlook.live.com/mail/0/)
+  👻 More links here: [Datenbank](https://linktr.ee/r3ev)
+  🥱 Check out some articles written: [3rev](3rev.medium.com)
+  🍭 Enjoy poetry?: 
+    - [Apocryphal](https://www.verse-virtual.org/2014/November/victor-ehikioya-2014-november.html)
+    - [Collection](https://www.verse-virtual.org/2015/March/victor-brown-omovbude-2015-march.html)
+    - [Life is short. Art is long.](https://www.verse-virtual.org/2015/August/victor-brown-omovbude-2015-august.html)
 - ⚡ Fun fact: I am obsessed with Anime and Crochet!
 
