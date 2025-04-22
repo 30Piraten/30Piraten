@@ -30,7 +30,7 @@ Currently building **buddy.me**, contributing to **open source at GitLab**, and 
 ---
 
 ### 📬 Reach out
-- Email: `victorehikioyaraeva@gmail.com`
+- Email: `raeva303@gmail.com`
 - LinkedIn: [linkedin.com/in/victorehikioya](https://linkedin.com/in/evictor3)
 
 ---
