@@ -1,13 +1,17 @@
 ## Hey there, I’m Victor 👋
 
 I build and design software that works — clean UI, robust systems, and thoughtful code.  
-Currently building **buddy.me**, contributing to **open source at GitLab**, and deepening my craft in **product design**.
+Currently building [**buddy.me**](https://github.com/30Piraten/buddy-me), contributing to **open source at GitLab**, and deepening my craft in **product design**.
+
+Checkout my website: [rayvah.cc](rayvah.cc) & 
+[RHIA: buddy.me's inference algorithm intro](https://rayvah.cc/posts/rabbit-hole-interface-system.html) and 
+[Buddy.me's simulated user flow](https://rayvah.cc/posts/rabbit-hole-inference-algorithm-user-flow.html) 
 
 ---
 
 ### 💼 What I'm up to
 - 🧠 Learning design from first principles (form, function, affordance, system image)
-- 🛠 Working on OSS contributions at GitLab (Vue + ESLint refactors)
+- 🛠 Working on OSS contributions at GitLab (Vue + ESLint refactors, Ruby, JSX)
 - 🚧 Architecting & sketching buddy.me - a gamified app for connecting like minded folks
 - 🌍 Exploring infrastructure patterns & what design is beyond code
 
@@ -23,7 +27,7 @@ Currently building **buddy.me**, contributing to **open source at GitLab**, and 
 
 ### 💬 Ask me about...
 - Product thinking, component design, design systems  
-- TypeScript + React patterns  
+- TypeScript + React patterns + Tooling  
 - Infrastructure as Code (Terraform, AWS CDK | SDK)  
 - Git workflows, DX, and documentation
 
