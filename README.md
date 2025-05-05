@@ -35,7 +35,7 @@ Checkout my website: [rayvah.cc](rayvah.cc) &
 
 ### 📬 Reach out
 - Email: `raeva303@gmail.com`
-- LinkedIn: [linkedin.com/in/victorehikioya](https://linkedin.com/in/evictor3)
+- LinkedIn: [Victor Raeva](https://linkedin.com/in/evictor3)
 
 ---
 
