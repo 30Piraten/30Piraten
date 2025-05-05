@@ -4,8 +4,11 @@ I build and design software that works — clean UI, robust systems, and thought
 Currently building [**buddy.me**](https://github.com/30Piraten/buddy-me), contributing to **open source at GitLab**, and deepening my craft in **product design**.
 
 Checkout my website: [rayvah.cc](rayvah.cc) & 
-[RHIA: buddy.me's inference algorithm intro](https://rayvah.cc/posts/rabbit-hole-interface-system.html) and 
-[Buddy.me's simulated user flow](https://rayvah.cc/posts/rabbit-hole-inference-algorithm-user-flow.html) 
+- [RHIA: buddy.me's inference algorithm intro](https://rayvah.cc/posts/rabbit-hole-interface-system.html) and 
+- [Buddy.me's simulated user flow](https://rayvah.cc/posts/rabbit-hole-inference-algorithm-user-flow.html) 
+
+
+- [OSS Contribution @ GitLab](https://rayvah.cc/oss.html)
 
 ---
 
