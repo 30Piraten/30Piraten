@@ -11,7 +11,7 @@ LinkedIn: "Victor Ehikioya" (https://linkedin.com/in/evictor3)
 
 ---
 
-What I work on
+**What I work on**
 
 - API & Developer Documentation — OpenAPI, API contracts, Documentation, Guides, Contracts, etc
 - Backend Development — Ruby & Golang
@@ -21,7 +21,7 @@ What I work on
 
 ---
 
-Technical Writing
+**Technical Writing**
 
 I'm particularly interested in documentation that sits close to the engineering process:
 
@@ -33,15 +33,16 @@ I'm particularly interested in documentation that sits close to the engineering 
 - Infrastructure and deployment documentation
 - Troubleshooting and operational documentation
 
-Recent writing includes:
+**Recent writing includes:**
 
-- "RHIA: buddy.me's inference algorithm" (https://rayvah.cc/posts/rabbit-hole-interface-system.html)
-- "buddy.me simulated user flow" (https://rayvah.cc/posts/rabbit-hole-inference-algorithm-user-flow.html)
-- "OSS Contribution" (https://rayvah.cc/oss.html)
+- [API developer & technical article](https://github.com/30Piraten/technical-articles)
+- [Kubernetes Ingress & HTTPS](https://ehikioyaraeva.medium.com/how-to-implement-kubernetes-ingress-for-http-and-https-traffic-management-4494a45fbfdc)
+- [Building a Scalable CI/CD Pipeline with AWS CDK](https://ehikioyaraeva.medium.com/building-a-scalable-ci-cd-pipeline-on-aws-with-aws-cdk-b08b7436ac1d)
+- [AWS Lambda](https://ehikioyaraeva.medium.com/aws-lambda-and-the-flying-dutchman-part-1-f6adfa2b0104)
 
 ---
 
-Open Source Contribution
+**Open Source Contribution**
 
 GitLab Enterprise Edition — GitLab Inc.
 
