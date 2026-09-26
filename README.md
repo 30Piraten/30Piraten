@@ -11,17 +11,17 @@ LinkedIn: "Victor Ehikioya" (https://linkedin.com/in/evictor3)
 
 ---
 
-**What I work on**
+### 🛠 Core Expertise
 
-- API & Developer Documentation — OpenAPI, API contracts, Documentation, Guides, Contracts, etc
-- Backend Development — Ruby & Golang
-- Cloud & Infrastructure — AWS, Terraform, Docker, Kubernetes, CI/CD
-- Documentation as Code — Markdown, Git, GitHub, YAML, version-controlled documentation
-- Systems & Architecture — understanding how services, APIs, infrastructure, and workflows fit together
+- Systems Architecture & Backend — Designing robust services and backend systems with Go and Ruby.
+- Cloud & Infrastructure — Building and provisioning cloud infrastructure with AWS, Terraform, Docker, Kubernetes, and CI/CD.
+- API Design & Contracts — Designing contract-first APIs with OpenAPI, clear schemas, and well-defined service interfaces.
+- API Documentation — Building Docs-as-Code workflows with Markdown, YAML, Git, CICD.
+- Systems Thinking — Understanding how services, APIs, infrastructure, data, and business logic connect to form reliable systems.
 
 ---
 
-**Technical Writing**
+### Technical Writing
 
 I'm particularly interested in documentation that sits close to the engineering process:
 
@@ -33,7 +33,7 @@ I'm particularly interested in documentation that sits close to the engineering 
 - Infrastructure and deployment documentation
 - Troubleshooting and operational documentation
 
-**Recent writing includes:**
+### Recent writing includes:
 
 - [API developer & technical article](https://github.com/30Piraten/technical-articles)
 - [Kubernetes Ingress & HTTPS](https://ehikioyaraeva.medium.com/how-to-implement-kubernetes-ingress-for-http-and-https-traffic-management-4494a45fbfdc)
@@ -42,7 +42,7 @@ I'm particularly interested in documentation that sits close to the engineering 
 
 ---
 
-**Open Source Contribution**
+### Open Source Contribution
 
 GitLab Enterprise Edition — GitLab Inc.
 
