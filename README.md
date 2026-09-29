@@ -43,7 +43,7 @@ I'm particularly interested in documentation that sits close to the engineering 
 
 ### Open Source Contribution
 
-GitLab Enterprise Edition — GitLab Inc.
+GitLab Enterprise Edition — GitLab Inc. [OSS Contributions](https://rayvah.cc/oss.html)
 
 ### 🛠 GitLab Enterprise Edition (GitLab Inc.)
 - **MR**: [vue/no-unused-properties cleanup](https://gitlab.com/gitlab-org/gitlab/-/merge_requests/188081)
