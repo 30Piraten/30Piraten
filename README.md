@@ -34,8 +34,7 @@ I'm particularly interested in documentation that sits close to the engineering 
 ### Recent writing includes:
 
 - [Contract-First Architecture: Governing Microservices boundaries with OpenAPI & Spectral](https://github.com/30Piraten/technical-articles/blob/main/docs/openapi-and-schema-design.md)
-- [API developer & technical article](https://github.com/30Piraten/technical-articles)
-- [Kubernetes Ingress & HTTPS](https://ehikioyaraeva.medium.com/how-to-implement-kubernetes-ingress-for-http-and-https-traffic-management-4494a45fbfdc)
+- [Kubernetes Ingress & HTTPS](https://github.com/30Piraten/ingress-http-dev/tree/main)
 - [Building a Scalable CI/CD Pipeline with AWS CDK](https://ehikioyaraeva.medium.com/building-a-scalable-ci-cd-pipeline-on-aws-with-aws-cdk-b08b7436ac1d)
 - [AWS Lambda](https://ehikioyaraeva.medium.com/aws-lambda-and-the-flying-dutchman-part-1-f6adfa2b0104)
 
