@@ -31,7 +31,7 @@ I'm particularly interested in documentation that sits close to the engineering 
 - Infrastructure and deployment documentation
 - Troubleshooting and operational documentation
 
-### Recent writing includes:
+### Recent articles:
 
 - [Contract-First Architecture: Governing Microservices boundaries with OpenAPI & Spectral](https://github.com/30Piraten/technical-articles/blob/main/docs/openapi-and-schema-design.md)
 - [Kubernetes Ingress & HTTPS](https://github.com/30Piraten/ingress-http-dev/tree/main)
